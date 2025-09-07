@@ -1,0 +1,5 @@
+# Ignore all Altium generated folders
+**/History/
+**/__Previews/
+**/Project Logs*/
+**/Project Outputs*/
